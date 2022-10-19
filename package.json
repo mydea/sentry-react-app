@@ -2,6 +2,7 @@
   "name": "francescos-react-app",
   "version": "0.1.0",
   "private": true,
+  "repository": "https://github.com/mydea/sentry-react-app",
   "dependencies": {
     "@sentry/react": "^7.16.0",
     "@sentry/tracing": "^7.16.0",
